@@ -1,5 +1,5 @@
 # 💫 About Me:
-nformation Technology student with a solid foundation in programming using Python ,C,C++,JAVA,HTML and CSS. Proficient <br>in Microsoft Office applications and experienced in designing and managing databases. Motivated to <br>develop my technical skills and contribute effectively in dynamic and tech-driven environments
+information Technology student with a solid foundation in programming using Python ,C,C++,JAVA,HTML and CSS. Proficient <br>in Microsoft Office applications and experienced in designing and managing databases. Motivated to <br>develop my technical skills and contribute effectively in dynamic and tech-driven environments
 
 
 ## 🌐 Socials:
